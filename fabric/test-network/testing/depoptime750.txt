@@ -1,0 +1,1500 @@
+[34m2021-05-29 23:47:49.221 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.132s
+user	0m0.038s
+sys	0m0.052s
+[34m2021-05-29 23:47:49.337 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.111s
+user	0m0.046s
+sys	0m0.020s
+[34m2021-05-29 23:47:49.423 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.029s
+sys	0m0.045s
+[34m2021-05-29 23:47:49.548 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.122s
+user	0m0.015s
+sys	0m0.072s
+[34m2021-05-29 23:47:49.686 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.136s
+user	0m0.030s
+sys	0m0.048s
+[34m2021-05-29 23:47:49.787 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.098s
+user	0m0.030s
+sys	0m0.048s
+[34m2021-05-29 23:47:49.914 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.023s
+sys	0m0.052s
+[34m2021-05-29 23:47:50.033 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.115s
+user	0m0.052s
+sys	0m0.026s
+[34m2021-05-29 23:47:50.125 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.020s
+sys	0m0.055s
+[34m2021-05-29 23:47:50.216 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.012s
+sys	0m0.052s
+[34m2021-05-29 23:47:50.471 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.249s
+user	0m0.060s
+sys	0m0.037s
+[34m2021-05-29 23:47:50.555 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.020s
+sys	0m0.049s
+[34m2021-05-29 23:47:50.658 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.101s
+user	0m0.016s
+sys	0m0.058s
+[34m2021-05-29 23:47:50.744 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.027s
+sys	0m0.033s
+[34m2021-05-29 23:47:50.867 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.120s
+user	0m0.032s
+sys	0m0.044s
+[34m2021-05-29 23:47:50.973 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.112s
+user	0m0.020s
+sys	0m0.048s
+[34m2021-05-29 23:47:51.074 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.089s
+user	0m0.028s
+sys	0m0.046s
+[34m2021-05-29 23:47:51.159 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.026s
+sys	0m0.041s
+[34m2021-05-29 23:47:51.239 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.020s
+sys	0m0.046s
+[34m2021-05-29 23:47:51.336 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.098s
+user	0m0.028s
+sys	0m0.039s
+[34m2021-05-29 23:47:51.630 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.292s
+user	0m0.030s
+sys	0m0.064s
+[34m2021-05-29 23:47:51.736 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.098s
+user	0m0.028s
+sys	0m0.046s
+[34m2021-05-29 23:47:51.810 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.073s
+user	0m0.019s
+sys	0m0.038s
+[34m2021-05-29 23:47:51.903 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.035s
+sys	0m0.035s
+[34m2021-05-29 23:47:51.998 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.093s
+user	0m0.027s
+sys	0m0.037s
+[34m2021-05-29 23:47:52.664 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.665s
+user	0m0.041s
+sys	0m0.036s
+[34m2021-05-29 23:47:52.765 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.099s
+user	0m0.031s
+sys	0m0.057s
+[34m2021-05-29 23:47:52.870 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.100s
+user	0m0.008s
+sys	0m0.066s
+[34m2021-05-29 23:47:52.940 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.067s
+user	0m0.011s
+sys	0m0.044s
+[34m2021-05-29 23:47:53.037 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.020s
+sys	0m0.050s
+[34m2021-05-29 23:47:53.316 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.275s
+user	0m0.035s
+sys	0m0.062s
+[34m2021-05-29 23:47:53.416 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.099s
+user	0m0.023s
+sys	0m0.050s
+[34m2021-05-29 23:47:53.537 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.039s
+sys	0m0.031s
+[34m2021-05-29 23:47:53.644 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.103s
+user	0m0.031s
+sys	0m0.040s
+[34m2021-05-29 23:47:53.737 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.092s
+user	0m0.048s
+sys	0m0.029s
+[34m2021-05-29 23:47:53.883 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.143s
+user	0m0.017s
+sys	0m0.058s
+[34m2021-05-29 23:47:53.968 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.005s
+sys	0m0.059s
+[34m2021-05-29 23:47:54.071 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.101s
+user	0m0.010s
+sys	0m0.070s
+[34m2021-05-29 23:47:54.157 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.019s
+sys	0m0.056s
+[34m2021-05-29 23:47:54.279 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.122s
+user	0m0.009s
+sys	0m0.076s
+[34m2021-05-29 23:47:54.466 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.181s
+user	0m0.014s
+sys	0m0.072s
+[34m2021-05-29 23:47:54.573 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.050s
+sys	0m0.021s
+[34m2021-05-29 23:47:54.696 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.121s
+user	0m0.019s
+sys	0m0.064s
+[34m2021-05-29 23:47:54.783 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.038s
+sys	0m0.039s
+[34m2021-05-29 23:47:54.895 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.106s
+user	0m0.021s
+sys	0m0.047s
+[34m2021-05-29 23:47:54.969 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.074s
+user	0m0.028s
+sys	0m0.033s
+[34m2021-05-29 23:47:55.084 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.113s
+user	0m0.018s
+sys	0m0.048s
+[34m2021-05-29 23:47:55.176 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.087s
+user	0m0.043s
+sys	0m0.037s
+[34m2021-05-29 23:47:55.640 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.477s
+user	0m0.012s
+sys	0m0.048s
+[34m2021-05-29 23:47:55.757 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.110s
+user	0m0.057s
+sys	0m0.029s
+[34m2021-05-29 23:47:55.982 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.212s
+user	0m0.017s
+sys	0m0.076s
+[34m2021-05-29 23:47:56.088 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.101s
+user	0m0.041s
+sys	0m0.021s
+[34m2021-05-29 23:47:56.207 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.117s
+user	0m0.023s
+sys	0m0.047s
+[34m2021-05-29 23:47:56.307 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.097s
+user	0m0.025s
+sys	0m0.041s
+[34m2021-05-29 23:47:56.396 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.018s
+sys	0m0.043s
+[34m2021-05-29 23:47:56.479 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.081s
+user	0m0.021s
+sys	0m0.050s
+[34m2021-05-29 23:47:56.574 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.092s
+user	0m0.034s
+sys	0m0.044s
+[34m2021-05-29 23:47:56.658 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.015s
+sys	0m0.051s
+[34m2021-05-29 23:47:56.754 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.095s
+user	0m0.040s
+sys	0m0.035s
+[34m2021-05-29 23:47:56.848 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.027s
+sys	0m0.038s
+[34m2021-05-29 23:47:57.128 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.273s
+user	0m0.036s
+sys	0m0.068s
+[34m2021-05-29 23:47:57.206 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.076s
+user	0m0.029s
+sys	0m0.029s
+[34m2021-05-29 23:47:57.320 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.111s
+user	0m0.047s
+sys	0m0.038s
+[34m2021-05-29 23:47:57.408 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.033s
+sys	0m0.034s
+[34m2021-05-29 23:47:57.523 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.111s
+user	0m0.014s
+sys	0m0.072s
+[34m2021-05-29 23:47:57.612 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.023s
+sys	0m0.055s
+[34m2021-05-29 23:47:57.699 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.031s
+sys	0m0.028s
+[34m2021-05-29 23:47:57.781 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.021s
+sys	0m0.047s
+[34m2021-05-29 23:47:57.882 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.101s
+user	0m0.016s
+sys	0m0.053s
+[34m2021-05-29 23:47:57.961 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.017s
+sys	0m0.045s
+[34m2021-05-29 23:47:58.232 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.258s
+user	0m0.047s
+sys	0m0.066s
+[34m2021-05-29 23:47:58.359 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.126s
+user	0m0.035s
+sys	0m0.040s
+[34m2021-05-29 23:47:58.431 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.072s
+user	0m0.039s
+sys	0m0.026s
+[34m2021-05-29 23:47:58.512 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.077s
+user	0m0.032s
+sys	0m0.039s
+[34m2021-05-29 23:47:58.681 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.170s
+user	0m0.021s
+sys	0m0.062s
+[34m2021-05-29 23:47:59.659 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.978s
+user	0m0.035s
+sys	0m0.030s
+[34m2021-05-29 23:47:59.790 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.124s
+user	0m0.040s
+sys	0m0.061s
+[34m2021-05-29 23:47:59.879 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.007s
+sys	0m0.060s
+[34m2021-05-29 23:47:59.962 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.015s
+sys	0m0.057s
+[34m2021-05-29 23:48:00.097 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.141s
+user	0m0.049s
+sys	0m0.037s
+[34m2021-05-29 23:48:00.362 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.254s
+user	0m0.037s
+sys	0m0.073s
+[34m2021-05-29 23:48:00.445 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.019s
+sys	0m0.051s
+[34m2021-05-29 23:48:00.540 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.093s
+user	0m0.011s
+sys	0m0.053s
+[34m2021-05-29 23:48:00.625 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.029s
+sys	0m0.038s
+[34m2021-05-29 23:48:00.771 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.143s
+user	0m0.028s
+sys	0m0.052s
+[34m2021-05-29 23:48:00.893 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.121s
+user	0m0.044s
+sys	0m0.044s
+[34m2021-05-29 23:48:01.006 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.110s
+user	0m0.016s
+sys	0m0.043s
+[34m2021-05-29 23:48:01.111 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.105s
+user	0m0.014s
+sys	0m0.063s
+[34m2021-05-29 23:48:01.203 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.087s
+user	0m0.037s
+sys	0m0.048s
+[34m2021-05-29 23:48:01.349 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.144s
+user	0m0.033s
+sys	0m0.038s
+[34m2021-05-29 23:48:01.574 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.219s
+user	0m0.038s
+sys	0m0.060s
+[34m2021-05-29 23:48:01.661 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.087s
+user	0m0.010s
+sys	0m0.061s
+[34m2021-05-29 23:48:01.790 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.125s
+user	0m0.032s
+sys	0m0.045s
+[34m2021-05-29 23:48:01.872 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.081s
+user	0m0.023s
+sys	0m0.046s
+[34m2021-05-29 23:48:01.969 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.031s
+sys	0m0.042s
+[34m2021-05-29 23:48:02.068 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.097s
+user	0m0.016s
+sys	0m0.063s
+[34m2021-05-29 23:48:02.197 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.129s
+user	0m0.043s
+sys	0m0.029s
+[34m2021-05-29 23:48:02.290 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.036s
+sys	0m0.036s
+[34m2021-05-29 23:48:02.369 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.074s
+user	0m0.009s
+sys	0m0.046s
+[34m2021-05-29 23:48:02.466 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.099s
+user	0m0.042s
+sys	0m0.036s
+[34m2021-05-29 23:48:02.749 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.277s
+user	0m0.023s
+sys	0m0.073s
+[34m2021-05-29 23:48:04.215 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m1.461s
+user	0m0.029s
+sys	0m0.114s
+[34m2021-05-29 23:48:04.301 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.018s
+sys	0m0.055s
+[34m2021-05-29 23:48:04.387 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.012s
+sys	0m0.060s
+[34m2021-05-29 23:48:04.470 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.015s
+sys	0m0.051s
+[34m2021-05-29 23:48:04.563 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.021s
+sys	0m0.056s
+[34m2021-05-29 23:48:04.637 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.071s
+user	0m0.006s
+sys	0m0.050s
+[34m2021-05-29 23:48:04.727 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.000s
+sys	0m0.066s
+[34m2021-05-29 23:48:04.905 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.176s
+user	0m0.014s
+sys	0m0.067s
+[34m2021-05-29 23:48:05.033 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.121s
+user	0m0.016s
+sys	0m0.074s
+[34m2021-05-29 23:48:05.127 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.020s
+sys	0m0.048s
+[34m2021-05-29 23:48:05.237 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.106s
+user	0m0.022s
+sys	0m0.049s
+[34m2021-05-29 23:48:05.325 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.037s
+sys	0m0.038s
+[34m2021-05-29 23:48:05.434 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.107s
+user	0m0.038s
+sys	0m0.030s
+[34m2021-05-29 23:48:05.515 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.078s
+user	0m0.028s
+sys	0m0.039s
+[34m2021-05-29 23:48:05.638 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.120s
+user	0m0.048s
+sys	0m0.027s
+[34m2021-05-29 23:48:05.744 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.109s
+user	0m0.021s
+sys	0m0.048s
+[34m2021-05-29 23:48:05.845 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.037s
+sys	0m0.032s
+[34m2021-05-29 23:48:06.114 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.266s
+user	0m0.022s
+sys	0m0.075s
+[34m2021-05-29 23:48:06.203 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.087s
+user	0m0.014s
+sys	0m0.062s
+[34m2021-05-29 23:48:06.322 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.114s
+user	0m0.012s
+sys	0m0.062s
+[34m2021-05-29 23:48:06.408 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.052s
+sys	0m0.021s
+[34m2021-05-29 23:48:06.530 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.120s
+user	0m0.014s
+sys	0m0.058s
+[34m2021-05-29 23:48:06.625 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.091s
+user	0m0.023s
+sys	0m0.041s
+[34m2021-05-29 23:48:06.765 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.136s
+user	0m0.015s
+sys	0m0.077s
+[34m2021-05-29 23:48:06.846 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.020s
+sys	0m0.040s
+[34m2021-05-29 23:48:06.933 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.087s
+user	0m0.017s
+sys	0m0.051s
+[34m2021-05-29 23:48:07.040 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.106s
+user	0m0.038s
+sys	0m0.043s
+[34m2021-05-29 23:48:07.296 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.252s
+user	0m0.028s
+sys	0m0.085s
+[34m2021-05-29 23:48:07.408 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.110s
+user	0m0.022s
+sys	0m0.057s
+[34m2021-05-29 23:48:07.499 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.087s
+user	0m0.020s
+sys	0m0.047s
+[34m2021-05-29 23:48:07.593 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.092s
+user	0m0.017s
+sys	0m0.055s
+[34m2021-05-29 23:48:07.683 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.089s
+user	0m0.042s
+sys	0m0.032s
+[34m2021-05-29 23:48:07.796 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.107s
+user	0m0.017s
+sys	0m0.061s
+[34m2021-05-29 23:48:07.873 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.073s
+user	0m0.042s
+sys	0m0.021s
+[34m2021-05-29 23:48:07.959 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.024s
+sys	0m0.042s
+[34m2021-05-29 23:48:08.045 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.081s
+user	0m0.029s
+sys	0m0.044s
+[34m2021-05-29 23:48:08.171 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.121s
+user	0m0.020s
+sys	0m0.061s
+[34m2021-05-29 23:48:08.668 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.494s
+user	0m0.018s
+sys	0m0.064s
+[34m2021-05-29 23:48:08.765 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.026s
+sys	0m0.046s
+[34m2021-05-29 23:48:08.853 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.076s
+user	0m0.018s
+sys	0m0.042s
+[34m2021-05-29 23:48:08.946 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.041s
+sys	0m0.037s
+[34m2021-05-29 23:48:09.046 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.105s
+user	0m0.034s
+sys	0m0.027s
+[34m2021-05-29 23:48:09.131 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.078s
+user	0m0.022s
+sys	0m0.038s
+[34m2021-05-29 23:48:09.218 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.025s
+sys	0m0.051s
+[34m2021-05-29 23:48:09.309 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.024s
+sys	0m0.042s
+[34m2021-05-29 23:48:09.419 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.108s
+user	0m0.034s
+sys	0m0.058s
+[34m2021-05-29 23:48:09.500 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.078s
+user	0m0.030s
+sys	0m0.030s
+[34m2021-05-29 23:48:09.676 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.174s
+user	0m0.016s
+sys	0m0.062s
+[34m2021-05-29 23:48:09.792 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.115s
+user	0m0.000s
+sys	0m0.080s
+[34m2021-05-30 00:49:42.692 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.139s
+user	0m0.024s
+sys	0m0.047s
+[34m2021-05-30 00:49:42.778 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.033s
+sys	0m0.038s
+[34m2021-05-30 00:49:42.911 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.131s
+user	0m0.031s
+sys	0m0.043s
+[34m2021-05-30 00:49:42.985 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.071s
+user	0m0.021s
+sys	0m0.041s
+[34m2021-05-30 00:49:43.066 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.081s
+user	0m0.025s
+sys	0m0.037s
+[34m2021-05-30 00:49:43.182 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.109s
+user	0m0.025s
+sys	0m0.049s
+[34m2021-05-30 00:49:43.293 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.101s
+user	0m0.033s
+sys	0m0.033s
+[34m2021-05-30 00:49:43.392 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.098s
+user	0m0.030s
+sys	0m0.034s
+[34m2021-05-30 00:49:43.469 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.073s
+user	0m0.000s
+sys	0m0.063s
+[34m2021-05-30 00:49:43.579 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.123s
+user	0m0.032s
+sys	0m0.047s
+[34m2021-05-30 00:49:43.822 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.230s
+user	0m0.042s
+sys	0m0.060s
+[34m2021-05-30 00:49:43.955 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.122s
+user	0m0.027s
+sys	0m0.063s
+[34m2021-05-30 00:49:44.030 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.075s
+user	0m0.029s
+sys	0m0.040s
+[34m2021-05-30 00:49:44.124 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.031s
+sys	0m0.052s
+[34m2021-05-30 00:49:44.211 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.034s
+sys	0m0.033s
+[34m2021-05-30 00:49:44.316 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.102s
+user	0m0.023s
+sys	0m0.056s
+[34m2021-05-30 00:49:44.638 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.317s
+user	0m0.033s
+sys	0m0.051s
+[34m2021-05-30 00:49:44.719 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.018s
+sys	0m0.041s
+[34m2021-05-30 00:49:45.753 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m1.034s
+user	0m0.031s
+sys	0m0.061s
+[34m2021-05-30 00:49:45.880 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.126s
+user	0m0.038s
+sys	0m0.038s
+[34m2021-05-30 00:49:46.742 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.848s
+user	0m0.052s
+sys	0m0.063s
+[34m2021-05-30 00:49:46.819 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.077s
+user	0m0.031s
+sys	0m0.037s
+[34m2021-05-30 00:49:46.909 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.089s
+user	0m0.033s
+sys	0m0.033s
+[34m2021-05-30 00:49:46.987 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.074s
+user	0m0.023s
+sys	0m0.042s
+[34m2021-05-30 00:49:47.106 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.117s
+user	0m0.030s
+sys	0m0.077s
+[34m2021-05-30 00:49:47.188 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.014s
+sys	0m0.054s
+[34m2021-05-30 00:49:47.309 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.122s
+user	0m0.017s
+sys	0m0.062s
+[34m2021-05-30 00:49:47.388 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.077s
+user	0m0.007s
+sys	0m0.057s
+[34m2021-05-30 00:49:47.480 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.091s
+user	0m0.017s
+sys	0m0.045s
+[34m2021-05-30 00:49:47.699 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.212s
+user	0m0.034s
+sys	0m0.065s
+[34m2021-05-30 00:49:47.793 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.130s
+user	0m0.024s
+sys	0m0.048s
+[34m2021-05-30 00:49:47.925 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.020s
+sys	0m0.051s
+[34m2021-05-30 00:49:48.061 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.134s
+user	0m0.041s
+sys	0m0.037s
+[34m2021-05-30 00:49:48.152 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.027s
+sys	0m0.054s
+[34m2021-05-30 00:49:48.278 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.122s
+user	0m0.025s
+sys	0m0.062s
+[34m2021-05-30 00:49:48.357 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.077s
+user	0m0.016s
+sys	0m0.049s
+[34m2021-05-30 00:49:48.467 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.108s
+user	0m0.034s
+sys	0m0.035s
+[34m2021-05-30 00:49:48.549 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.077s
+user	0m0.041s
+sys	0m0.031s
+[34m2021-05-30 00:49:48.652 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.104s
+user	0m0.016s
+sys	0m0.049s
+[34m2021-05-30 00:49:48.922 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.265s
+user	0m0.069s
+sys	0m0.037s
+[34m2021-05-30 00:49:49.003 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.047s
+sys	0m0.019s
+[34m2021-05-30 00:49:49.121 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.111s
+user	0m0.035s
+sys	0m0.027s
+[34m2021-05-30 00:49:49.196 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.077s
+user	0m0.033s
+sys	0m0.029s
+[34m2021-05-30 00:49:49.302 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.099s
+user	0m0.023s
+sys	0m0.046s
+[34m2021-05-30 00:49:49.383 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.025s
+sys	0m0.038s
+[34m2021-05-30 00:49:49.480 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.097s
+user	0m0.015s
+sys	0m0.062s
+[34m2021-05-30 00:49:49.569 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.049s
+sys	0m0.025s
+[34m2021-05-30 00:49:49.689 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.119s
+user	0m0.035s
+sys	0m0.048s
+[34m2021-05-30 00:49:49.772 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.087s
+user	0m0.028s
+sys	0m0.044s
+[34m2021-05-30 00:49:49.986 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.200s
+user	0m0.031s
+sys	0m0.071s
+[34m2021-05-30 00:49:50.075 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.031s
+sys	0m0.039s
+[34m2021-05-30 00:49:50.194 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.115s
+user	0m0.018s
+sys	0m0.061s
+[34m2021-05-30 00:49:50.296 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.098s
+user	0m0.021s
+sys	0m0.055s
+[34m2021-05-30 00:49:50.424 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.042s
+sys	0m0.038s
+[34m2021-05-30 00:49:50.520 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.093s
+user	0m0.037s
+sys	0m0.031s
+[34m2021-05-30 00:49:50.611 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.089s
+user	0m0.042s
+sys	0m0.031s
+[34m2021-05-30 00:49:50.720 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.105s
+user	0m0.036s
+sys	0m0.036s
+[34m2021-05-30 00:49:50.806 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.017s
+sys	0m0.051s
+[34m2021-05-30 00:49:50.953 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.152s
+user	0m0.030s
+sys	0m0.056s
+[34m2021-05-30 00:49:51.211 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.247s
+user	0m0.042s
+sys	0m0.073s
+[34m2021-05-30 00:49:51.367 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.150s
+user	0m0.025s
+sys	0m0.070s
+[34m2021-05-30 00:49:51.463 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.019s
+sys	0m0.047s
+[34m2021-05-30 00:49:51.569 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.101s
+user	0m0.040s
+sys	0m0.020s
+[34m2021-05-30 00:49:51.670 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.104s
+user	0m0.034s
+sys	0m0.048s
+[34m2021-05-30 00:49:51.770 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.026s
+sys	0m0.039s
+[34m2021-05-30 00:49:51.885 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.112s
+user	0m0.020s
+sys	0m0.054s
+[34m2021-05-30 00:49:51.977 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.033s
+sys	0m0.040s
+[34m2021-05-30 00:49:52.085 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.106s
+user	0m0.006s
+sys	0m0.061s
+[34m2021-05-30 00:49:52.177 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.032s
+sys	0m0.028s
+[34m2021-05-30 00:49:52.781 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.604s
+user	0m0.050s
+sys	0m0.055s
+[34m2021-05-30 00:49:52.877 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.092s
+user	0m0.053s
+sys	0m0.020s
+[34m2021-05-30 00:49:52.964 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.027s
+sys	0m0.044s
+[34m2021-05-30 00:49:53.057 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.093s
+user	0m0.031s
+sys	0m0.047s
+[34m2021-05-30 00:49:53.181 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.120s
+user	0m0.021s
+sys	0m0.057s
+[34m2021-05-30 00:49:53.293 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.122s
+user	0m0.044s
+sys	0m0.040s
+[34m2021-05-30 00:49:53.385 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.078s
+user	0m0.028s
+sys	0m0.029s
+[34m2021-05-30 00:49:53.469 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.024s
+sys	0m0.049s
+[34m2021-05-30 00:49:53.628 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.158s
+user	0m0.031s
+sys	0m0.036s
+[34m2021-05-30 00:49:53.717 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.009s
+sys	0m0.053s
+[34m2021-05-30 00:49:54.698 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.976s
+user	0m0.026s
+sys	0m0.099s
+[34m2021-05-30 00:49:54.852 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.150s
+user	0m0.014s
+sys	0m0.064s
+[34m2021-05-30 00:49:54.933 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.078s
+user	0m0.030s
+sys	0m0.030s
+[34m2021-05-30 00:49:55.027 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.093s
+user	0m0.013s
+sys	0m0.057s
+[34m2021-05-30 00:49:55.114 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.084s
+user	0m0.028s
+sys	0m0.047s
+[34m2021-05-30 00:49:55.216 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.100s
+user	0m0.031s
+sys	0m0.036s
+[34m2021-05-30 00:49:55.310 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.027s
+sys	0m0.055s
+[34m2021-05-30 00:49:55.426 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.112s
+user	0m0.032s
+sys	0m0.042s
+[34m2021-05-30 00:49:55.496 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.069s
+user	0m0.021s
+sys	0m0.037s
+[34m2021-05-30 00:49:55.580 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.019s
+sys	0m0.049s
+[34m2021-05-30 00:49:55.840 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.249s
+user	0m0.028s
+sys	0m0.074s
+[34m2021-05-30 00:49:55.921 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.010s
+sys	0m0.057s
+[34m2021-05-30 00:49:56.049 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.124s
+user	0m0.019s
+sys	0m0.061s
+[34m2021-05-30 00:49:56.129 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.035s
+sys	0m0.035s
+[34m2021-05-30 00:49:56.228 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.099s
+user	0m0.028s
+sys	0m0.040s
+[34m2021-05-30 00:49:56.502 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.270s
+user	0m0.008s
+sys	0m0.056s
+[34m2021-05-30 00:49:56.578 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.069s
+user	0m0.026s
+sys	0m0.036s
+[34m2021-05-30 00:49:56.704 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.122s
+user	0m0.039s
+sys	0m0.031s
+[34m2021-05-30 00:49:56.793 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.036s
+sys	0m0.041s
+[34m2021-05-30 00:49:56.904 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.109s
+user	0m0.029s
+sys	0m0.043s
+[34m2021-05-30 00:49:57.631 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.722s
+user	0m0.049s
+sys	0m0.049s
+[34m2021-05-30 00:49:57.742 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.113s
+user	0m0.026s
+sys	0m0.056s
+[34m2021-05-30 00:49:57.851 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.042s
+sys	0m0.026s
+[34m2021-05-30 00:49:57.964 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.112s
+user	0m0.037s
+sys	0m0.037s
+[34m2021-05-30 00:49:58.045 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.081s
+user	0m0.047s
+sys	0m0.016s
+[34m2021-05-30 00:49:58.162 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.112s
+user	0m0.033s
+sys	0m0.049s
+[34m2021-05-30 00:49:58.238 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.074s
+user	0m0.032s
+sys	0m0.036s
+[34m2021-05-30 00:49:58.321 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.010s
+sys	0m0.056s
+[34m2021-05-30 00:49:58.403 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.078s
+user	0m0.048s
+sys	0m0.028s
+[34m2021-05-30 00:49:58.511 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.113s
+user	0m0.036s
+sys	0m0.041s
+[34m2021-05-30 00:49:59.707 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m1.180s
+user	0m0.041s
+sys	0m0.079s
+[34m2021-05-30 00:49:59.804 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.014s
+sys	0m0.064s
+[34m2021-05-30 00:49:59.906 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.099s
+user	0m0.040s
+sys	0m0.028s
+[34m2021-05-30 00:49:59.993 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.035s
+sys	0m0.031s
+[34m2021-05-30 00:50:00.117 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.121s
+user	0m0.031s
+sys	0m0.039s
+[34m2021-05-30 00:50:00.205 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.085s
+user	0m0.028s
+sys	0m0.042s
+[34m2021-05-30 00:50:00.302 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.097s
+user	0m0.018s
+sys	0m0.054s
+[34m2021-05-30 00:50:00.387 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.013s
+sys	0m0.058s
+[34m2021-05-30 00:50:00.485 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.096s
+user	0m0.025s
+sys	0m0.051s
+[34m2021-05-30 00:50:00.578 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.092s
+user	0m0.025s
+sys	0m0.044s
+[34m2021-05-30 00:50:00.829 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.245s
+user	0m0.043s
+sys	0m0.059s
+[34m2021-05-30 00:50:00.907 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.074s
+user	0m0.040s
+sys	0m0.021s
+[34m2021-05-30 00:50:01.016 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.106s
+user	0m0.020s
+sys	0m0.043s
+[34m2021-05-30 00:50:01.099 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.081s
+user	0m0.035s
+sys	0m0.030s
+[34m2021-05-30 00:50:01.192 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.093s
+user	0m0.031s
+sys	0m0.041s
+[34m2021-05-30 00:50:01.275 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.039s
+sys	0m0.031s
+[34m2021-05-30 00:50:01.356 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.081s
+user	0m0.018s
+sys	0m0.044s
+[34m2021-05-30 00:50:01.463 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.102s
+user	0m0.038s
+sys	0m0.052s
+[34m2021-05-30 00:50:01.540 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.078s
+user	0m0.020s
+sys	0m0.047s
+[34m2021-05-30 00:50:01.658 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.117s
+user	0m0.018s
+sys	0m0.054s
+[34m2021-05-30 00:50:01.827 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.162s
+user	0m0.050s
+sys	0m0.050s
+[34m2021-05-30 00:50:01.942 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.112s
+user	0m0.030s
+sys	0m0.052s
+[34m2021-05-30 00:50:02.048 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.102s
+user	0m0.030s
+sys	0m0.035s
+[34m2021-05-30 00:50:02.130 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.028s
+sys	0m0.036s
+[34m2021-05-30 00:50:02.227 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.012s
+sys	0m0.055s
+[34m2021-05-30 00:50:02.308 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.079s
+user	0m0.027s
+sys	0m0.041s
+[34m2021-05-30 00:50:02.397 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.088s
+user	0m0.024s
+sys	0m0.048s
+[34m2021-05-30 00:50:02.480 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.014s
+sys	0m0.057s
+[34m2021-05-30 00:50:02.578 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.094s
+user	0m0.006s
+sys	0m0.058s
+[34m2021-05-30 00:50:02.666 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.090s
+user	0m0.016s
+sys	0m0.057s
+[34m2021-05-30 00:50:02.887 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.211s
+user	0m0.032s
+sys	0m0.047s
+[34m2021-05-30 00:50:02.987 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.097s
+user	0m0.010s
+sys	0m0.067s
+[34m2021-05-30 00:50:03.075 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.086s
+user	0m0.006s
+sys	0m0.054s
+[34m2021-05-30 00:50:03.176 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.100s
+user	0m0.027s
+sys	0m0.053s
+[34m2021-05-30 00:50:03.258 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.080s
+user	0m0.030s
+sys	0m0.037s
+[34m2021-05-30 00:50:03.345 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.033s
+sys	0m0.046s
+[34m2021-05-30 00:50:03.429 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.084s
+user	0m0.022s
+sys	0m0.039s
+[34m2021-05-30 00:50:03.513 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.083s
+user	0m0.006s
+sys	0m0.057s
+[34m2021-05-30 00:50:03.596 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.082s
+user	0m0.017s
+sys	0m0.043s
+[34m2021-05-30 00:50:04.653 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m1.073s
+user	0m0.031s
+sys	0m0.063s
+[34m2021-05-30 00:50:04.889 CEST [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001[0m Chaincode invoke successful. result: status:200 
+
+real	0m0.206s
+user	0m0.030s
+sys	0m0.065s
